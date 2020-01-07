@@ -10,7 +10,7 @@ public class Lambdas {
 		InterfazFuncional funcional = (List<Integer> listaNumeros) -> {
 			int sum = 0;
 			double ave = 0;
-			listaNumeros.forEach(x->sum+=x.intValue());
+//			listaNumeros.forEach(x->sum+=x.intValue());
 			
 			return ave;
 			
